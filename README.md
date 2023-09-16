@@ -3,5 +3,6 @@
 Chasing the bioluminescent blue light emitted by moving dinoflagellates
 
 
+Maximum Instensity Projections over multiple video frames
 
-![prototype-v2-tsne-states](readme-images/output.gif)
+![max-int-proj-frames-all_MVI_7481a_.jpg](readme-images/max-int-proj-frames-all_MVI_7481a_.jpg "dinos")
